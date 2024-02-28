@@ -10,7 +10,7 @@
     min-height: 480px;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 1000px) {
     .container {
         height: 100vh;
         width: 100vw;
